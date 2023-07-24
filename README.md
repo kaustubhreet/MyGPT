@@ -1,3 +1,7 @@
+
+
+![Screenshot 2023-07-24 173148](https://github.com/kaustubhreet/MyGPT/assets/77569949/0df8ed28-7dbb-4044-8af4-12614a30b687)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
